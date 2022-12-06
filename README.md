@@ -38,6 +38,7 @@ Check out also [my website](alessiorusso.net)
     *  [py-lower-bound-bai](https://github.com/rssalessio/py-lower-bound-bai): A python library that solves the best-arm identification problem in classical multi-armed bandit models.
     *  [nnGA](https://github.com/rssalessio/nnGA): Neural Network Genetic Algorithm library used for deep learning problems
     *  [PytorchRBFLayer](https://github.com/rssalessio/PytorchRBFLayer): Pytorch RBF Layer implements a radial basis function layer in Pytorch. Radial Basis networks can be used to approximate functions.
+    *  [AdaptiveControlLibrary](https://github.com/rssalessio/AdaptiveControlLibrary): Adaptive Control Library in Matlab
     *  TBC
   * ### Other repos
     * [Algorand Royalty Fees](https://github.com/rssalessio/algorand-royalty-fees): a tutorial that shows how to implement royalty fees on the Algorand blockchain
