@@ -1,12 +1,15 @@
 Welcome to my personal GitHub page!
 
-I am currently a final year Ph.D. candidate at KTH Royal Insitute of Technology (Stockholm), under the supervision of Prof. Proutiere Alexandre, majoring in Electrical Engineering and Computer Science (EECS) at the Division of Decision and Control Systems.
+I am a researcher in Reinforcement Learning and Control methodology. I have a Ph.D. in Electrical Engineering from KTH Royal Insitute of Technology (Stockholm), where I was supervised by Prof. Proutiere Alexandre at the Division of Decision and Control Systems.
 
-My Ph.D. program involves the study of poisoning attacks on controlled dynamical systems, which includes:
+My research involves the study of Reinforcement Learning and data-driven control, including
 
+ * Exploration in Reinforcement Learning
+ * Reinforcement learning methodology
+ * Conformal prediction
+ * Learning in control
  * Poisoning attacks on Sequential Decision Makers (Reinforcement Learning, Adaptive Control, Data-Driven Control)
  * Attack detectability
- * Statistical learning of attacks
 
 Check out also [my website](alessiorusso.net)
 
@@ -20,6 +23,8 @@ Check out also [my website](alessiorusso.net)
 
   * [Reading list](https://github.com/rssalessio/reading-list/blob/main/README.md): here I keep track of interesting papers
   * ### Research related
+    * [Model Free Active Exploration in Reinforcement learning](https://github.com/rssalessio/ModelFreeActiveExplorationRL)
+    * [Conformal Prediction for Off-Policy Evaluation in MDPs](https://github.com/danielefoffano/Conformal_OPE_MDP)
     * [Data poisoning of linear systems](https://github.com/rssalessio/data-poisoning-linear-systems)
     * [OSRL-SC, Optimal Representation Learning in Multi-Task Bandits](https://github.com/rssalessio/OSRL-SC)
     * [TZDDPC, Tube-based Zonotopic Data-Driven Predictive COntrol](https://github.com/rssalessio/TZDDPC)
