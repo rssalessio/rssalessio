@@ -1,6 +1,6 @@
 Welcome to my personal GitHub page!
 
-I am a researcher in Reinforcement Learning and Control methodology. I have a Ph.D. in Electrical Engineering from KTH Royal Insitute of Technology (Stockholm), where I was supervised by Prof. Proutiere Alexandre at the Division of Decision and Control Systems.
+I am a researcher in Reinforcement Learning and Control methodology. Currently a Postdoc at Boston University, where I'm advised by [Prof. Pacchiano Aldo](https://plaia.ai/). I have a Ph.D. in Electrical Engineering from KTH Royal Insitute of Technology (Stockholm), where I was supervised by Prof. Proutiere Alexandre at the Division of Decision and Control Systems.
 
 My research involves the study of Reinforcement Learning and data-driven control, including
 
@@ -23,6 +23,9 @@ Check out also [my website](alessiorusso.net)
 
   * [Reading list](https://github.com/rssalessio/reading-list/blob/main/README.md): here I keep track of interesting papers
   * ### Research related
+    * [Pure Exploration with Feedback Graphs](https://github.com/rssalessio/Pure-Exploration-with-Feedback-Graphs)
+    * [Multi-Reward Best Policy Identification](https://github.com/rssalessio/Multi-Reward-Best-Policy-Identification)
+    * [Fair Best Arm Identification](https://github.com/rssalessio/fair-best-arm-identification)
     * [Model Free Active Exploration in Reinforcement learning](https://github.com/rssalessio/ModelFreeActiveExplorationRL)
     * [Conformal Prediction for Off-Policy Evaluation in MDPs](https://github.com/danielefoffano/Conformal_OPE_MDP)
     * [Data poisoning of linear systems](https://github.com/rssalessio/data-poisoning-linear-systems)
