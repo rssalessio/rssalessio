@@ -11,7 +11,7 @@ My research involves the study of Reinforcement Learning and data-driven control
  * Poisoning attacks on Sequential Decision Makers (Reinforcement Learning, Adaptive Control, Data-Driven Control)
  * Attack detectability
 
-Check out also [my website](alessiorusso.net)
+Check out also [my website](www.alessiorusso.net)
 
 ## My Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rssalessio&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
